@@ -1,4 +1,4 @@
-=== Dont-translate-admin ===
+=== Dont translate admin ===
 Contributors: ShinichiN
 Tags: localization, l10n, translation
 Requires at least: 2.9.0
